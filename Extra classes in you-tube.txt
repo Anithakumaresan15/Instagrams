@@ -1,0 +1,34 @@
+public class ReverseWord {
+
+
+	public static String reverseString(String sentence){
+		String[] words = sentence.split("\\s+")
+
+	}
+
+
+	public static void main(String[] args){
+
+		Scanner s = new Scanner(System.in);
+		System.out.print("Enter a sentence");
+		String input= s.nextLine();
+		
+}
+
+	
+
+
+public class DropDown{
+
+
+	public static void main(String[] args){
+	
+		System.setProperty("webdriver.chrome.driver","path/chrome");
+		Webdriver driver = new ChromeDriver();
+		driver.findElement(By.xpath("//label[@for='fromCity']")).click();
+		driver.findElement(By.xpath)
+
+	}
+
+
+}
